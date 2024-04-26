@@ -12,7 +12,7 @@ public class Prueba {
         // 2da. forma
         List<String> lista2Nueva = new ArrayList<>();
         //lista2Nueva.addAll(lista); // 1 opcion
-        for (String s : listaNueva) { //2 opcion
+        for (String s : listaNueva) { //2 opciongit 
             lista2Nueva.add(s);
         }
 
