@@ -12,9 +12,11 @@ public class Prueba {
         // 2da. forma
         List<String> lista2Nueva = new ArrayList<>();
         //lista2Nueva.addAll(lista); // 1 opcion
-        for (String s : listaNueva) { //2 opciongit 
+        for (String s : listaNueva) { //2 opciongit
             lista2Nueva.add(s);
         }
+
+        System.out.println("este mensaje es nuevo");
 
     }
 }
